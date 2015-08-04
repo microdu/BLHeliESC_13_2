@@ -1,0 +1,3793 @@
+Revision: REV13_2 
+Path for Silabs IDE: C:\SiLabs 
+Path for Raisonance IDE: C:\Raisonance 
+Start compile ..... 
+ 
+********************************************************************  
+XP_3A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_3A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_3A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_3A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_3A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_3A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_7A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_7A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_7A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_7A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_7A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_7A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_7A_Fast  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_7A_FAST_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_7A_Fast  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_7A_FAST_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_7A_Fast  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_7A_FAST_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_35A_SW  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6130 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_35A_SW_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_35A_SW  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6130 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_35A_SW_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XP_35A_SW  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6130 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XP_35A_SW_REV13_2.HEX
+ 
+ 
+********************************************************************  
+DP_3A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\DP_3A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+DP_3A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\DP_3A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+DP_3A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\DP_3A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SUPERMICRO_3P5A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SUPERMICRO_3P5A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SUPERMICRO_3P5A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SUPERMICRO_3P5A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SUPERMICRO_3P5A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SUPERMICRO_3P5A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6333,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6123,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6289,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_60A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_60A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_60A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_60A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_60A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_60A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_80A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_80A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_80A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_80A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_80A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_80A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6315,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6104,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6272,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6315,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6104,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6272,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6315,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6104,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_PLUSH_NFET_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6272,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_PLUSH_NFET_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6392,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6199,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6392,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6199,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_25A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_25A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6392,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6199,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_45A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6342,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_45A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_45A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6133,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_45A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_AE_45A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6298,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_AE_45A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6342,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6133,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6298,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_70A_HV  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6346,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_70A_HV_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_70A_HV  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6137,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_70A_HV_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_70A_HV  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6302,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_70A_HV_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_120A_HV  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6346,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_120A_HV_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_120A_HV  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6137,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_120A_HV_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_120A_HV  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6302,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_120A_HV_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_120A_HV_V2  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6325,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_120A_HV_V2_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_120A_HV_V2  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6114,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_120A_HV_V2_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TURNIGY_KFORCE_120A_HV_V2  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6281,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TURNIGY_KFORCE_120A_HV_V2_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYWALKER_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6399,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYWALKER_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYWALKER_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6206,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYWALKER_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYWALKER_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6364,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYWALKER_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYWALKER_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6399,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYWALKER_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYWALKER_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6206,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYWALKER_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYWALKER_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6364,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYWALKER_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_22A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_22A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_22A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_22A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_22A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_22A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_33A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_33A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_33A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_33A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_33A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_33A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_41A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_41A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_41A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_41A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+HIMODEL_COOL_41A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\HIMODEL_COOL_41A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+RCTIMER_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\RCTIMER_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+RCTIMER_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\RCTIMER_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+RCTIMER_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\RCTIMER_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL15X  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6392,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL15X_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL15X  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6199,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL15X_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL15X  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL15X_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL15P  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6392,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL15P_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL15P  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6199,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL15P_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL15P  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL15P_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL35X  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL35X_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL35X  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL35X_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL35X  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL35X_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL35P  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6325,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL35P_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL35P  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6114,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL35P_REV13_2.HEX
+ 
+ 
+********************************************************************  
+ALIGN_RCE_BL35P  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6281,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\ALIGN_RCE_BL35P_REV13_2.HEX
+ 
+ 
+********************************************************************  
+GAUI_GE_183_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6307,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\GAUI_GE_183_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+GAUI_GE_183_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6096,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\GAUI_GE_183_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+GAUI_GE_183_18A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6264,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\GAUI_GE_183_18A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6400,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6207,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6410,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6217,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6373,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_35A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6322,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_35A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_35A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6111,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_35A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_35A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6279,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_35A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_50A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6322,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_50A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_50A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6111,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_50A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+H_KING_50A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6279,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\H_KING_50A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_12A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_12A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_60A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_60A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_60A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_60A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_60A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_60A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_80A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_80A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_80A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_80A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_80A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_80A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_100A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_100A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_100A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_100A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+POLARIS_THUNDER_100A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\POLARIS_THUNDER_100A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_PRO_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6465,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_PRO_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_PRO_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6283,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_PRO_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_PRO_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6420,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_PRO_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_PRO_150A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6354,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_PRO_150A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_PRO_150A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6147,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_PRO_150A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_PRO_150A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6310,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_PRO_150A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_50AV3  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6492,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_50AV3_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_50AV3  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_50AV3_REV13_2.HEX
+ 
+ 
+********************************************************************  
+PLATINUM_50AV3  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6445,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\PLATINUM_50AV3_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EAZY_3AV2  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EAZY_3AV2_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EAZY_3AV2  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EAZY_3AV2_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EAZY_3AV2  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EAZY_3AV2_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TAROT_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6308,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TAROT_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TAROT_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6097,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TAROT_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+TAROT_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6265,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\TAROT_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYIII_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6391,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYIII_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYIII_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6198,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYIII_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+SKYIII_30A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6364,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYIII_30A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EMAX_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6400,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EMAX_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EMAX_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6207,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EMAX_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EMAX_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6365,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EMAX_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EMAX_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6316,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EMAX_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EMAX_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6105,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EMAX_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+EMAX_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6273,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\EMAX_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6129 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6459,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6129 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6278,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_10A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6129 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6414,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_10A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6129 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6460,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6129 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6279,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_20A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+*** WARNING #53 IN LINE 6129 OF BLHeli.asm : VALUE HAS BEEN TRUNCATED TO 8 BITS
+ASSEMBLY COMPLETE.   1 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6415,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_20A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6466,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6284,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+XRotor_40A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6421,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\XROTOR_40A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+Skypup_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6311,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYPUP_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+Skypup_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6100,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYPUP_6A_REV13_2.HEX
+ 
+ 
+********************************************************************  
+Skypup_6A  
+********************************************************************  
+MS-DOS MCS-51 MACRO ASSEMBLER MA51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+ASSEMBLY COMPLETE.   0 WARNING(S)   0 ERROR(S)
+MS-DOS MCS-51 CODE BANKING LINKER/LOCATOR LX51 V06.16.13.326 Hobby version (8 Kb code limited)
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+
+<Memory usage: code=6268,  internal data=180.0,  xdata/pdata=0>
+
+LINK/LOCATE RUN COMPLETE,  NO ERROR FOUND.
+
+
+OMF to HEX/BIN converter V6.16.13.326
+Copyright (c) KEOLABS S.A.S. 1987-2013. All rights reserved. Raisonance is a KEOLABS brand.
+GENERATING EXTENDED HEX FILE: OUTPUT\SKYPUP_6A_REV13_2.HEX
+ 
